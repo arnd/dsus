@@ -28,7 +28,6 @@ import hashlib
 from time import time
 
 import daklib.utils
-from daklib.binary import Binary
 from daklib.queue import Upload
 from daklib.lintian import parse_lintian_output
 
